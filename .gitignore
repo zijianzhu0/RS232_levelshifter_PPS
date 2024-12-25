@@ -2,8 +2,8 @@
 # Format documentation: https://kicad.org/help/file-formats/
 
 # fab files
-fab
-Fab
+fab*
+Fab*
 
 # Temporary files
 *.000
